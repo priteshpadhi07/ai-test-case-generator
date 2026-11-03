@@ -1,0 +1,16 @@
+# Python virtual environment
+.venv/
+venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Environment variables
+.env
+
+# PyCharm
+.idea/
+
+# Generated Excel reports
+AI_Generated_Test_Cases.xlsx
